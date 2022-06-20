@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712166987560",
+    "project_id": "signin-ad232",
+    "storage_bucket": "signin-ad232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712166987560:android:557f88aabe97c76acc221d",
+        "android_client_info": {
+          "package_name": "com.example.mikhivision_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712166987560-u25m3fnvtmurvmtamr3c06iukq5qj7kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHZdrPMffAdX7lwtFaOOJv5Bk93ni9tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712166987560-u25m3fnvtmurvmtamr3c06iukq5qj7kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
